@@ -37,4 +37,5 @@ async def kontrol(ctx):
 
 
 
-bot.run("MTM2NzkyMzI2OTI0MzYzMzg2NQ.GHx9-b.i8WarjPoeB3cu4ySR-jRP_CNvaCY3ufD0F4qQM")
+
+bot.run("BOT TOKEN")
